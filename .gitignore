@@ -5,3 +5,5 @@ node_modules/
 dist/
 bin/
 obj/
+.venv/
+*.tmp
